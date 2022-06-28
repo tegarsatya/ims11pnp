@@ -1,0 +1,100 @@
+[17-Mar-2022 09:15:01 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'imsc3529_imsnp.tuker_faktur_c' doesn't exist in /home/imsc3529/public_html/192.268.908.11/json/tfaktur/tfaktur.php:30
+Stack trace:
+#0 /home/imsc3529/public_html/192.268.908.11/json/tfaktur/tfaktur.php(30): PDO->query('SELECT COUNT(id...')
+#1 {main}
+  thrown in /home/imsc3529/public_html/192.268.908.11/json/tfaktur/tfaktur.php on line 30
+[17-Mar-2022 09:15:03 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'imsc3529_imsnp.tuker_faktur_c' doesn't exist in /home/imsc3529/public_html/192.268.908.11/json/tfaktur/tfaktur.php:30
+Stack trace:
+#0 /home/imsc3529/public_html/192.268.908.11/json/tfaktur/tfaktur.php(30): PDO->query('SELECT COUNT(id...')
+#1 {main}
+  thrown in /home/imsc3529/public_html/192.268.908.11/json/tfaktur/tfaktur.php on line 30
+[17-Mar-2022 09:15:27 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'imsc3529_imsnp.tuker_faktur_c' doesn't exist in /home/imsc3529/public_html/192.268.908.11/json/tfaktur/tfaktur.php:30
+Stack trace:
+#0 /home/imsc3529/public_html/192.268.908.11/json/tfaktur/tfaktur.php(30): PDO->query('SELECT COUNT(id...')
+#1 {main}
+  thrown in /home/imsc3529/public_html/192.268.908.11/json/tfaktur/tfaktur.php on line 30
+[17-Mar-2022 09:15:28 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'imsc3529_imsnp.tuker_faktur_c' doesn't exist in /home/imsc3529/public_html/192.268.908.11/json/tfaktur/tfaktur.php:30
+Stack trace:
+#0 /home/imsc3529/public_html/192.268.908.11/json/tfaktur/tfaktur.php(30): PDO->query('SELECT COUNT(id...')
+#1 {main}
+  thrown in /home/imsc3529/public_html/192.268.908.11/json/tfaktur/tfaktur.php on line 30
+[17-Mar-2022 09:15:28 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'imsc3529_imsnp.tuker_faktur_c' doesn't exist in /home/imsc3529/public_html/192.268.908.11/json/tfaktur/tfaktur.php:30
+Stack trace:
+#0 /home/imsc3529/public_html/192.268.908.11/json/tfaktur/tfaktur.php(30): PDO->query('SELECT COUNT(id...')
+#1 {main}
+  thrown in /home/imsc3529/public_html/192.268.908.11/json/tfaktur/tfaktur.php on line 30
+[17-Mar-2022 09:15:29 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'imsc3529_imsnp.tuker_faktur_c' doesn't exist in /home/imsc3529/public_html/192.268.908.11/json/tfaktur/tfaktur.php:30
+Stack trace:
+#0 /home/imsc3529/public_html/192.268.908.11/json/tfaktur/tfaktur.php(30): PDO->query('SELECT COUNT(id...')
+#1 {main}
+  thrown in /home/imsc3529/public_html/192.268.908.11/json/tfaktur/tfaktur.php on line 30
+[17-Mar-2022 09:15:29 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'imsc3529_imsnp.tuker_faktur_c' doesn't exist in /home/imsc3529/public_html/192.268.908.11/json/tfaktur/tfaktur.php:30
+Stack trace:
+#0 /home/imsc3529/public_html/192.268.908.11/json/tfaktur/tfaktur.php(30): PDO->query('SELECT COUNT(id...')
+#1 {main}
+  thrown in /home/imsc3529/public_html/192.268.908.11/json/tfaktur/tfaktur.php on line 30
+[17-Mar-2022 09:15:29 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'imsc3529_imsnp.tuker_faktur_c' doesn't exist in /home/imsc3529/public_html/192.268.908.11/json/tfaktur/tfaktur.php:30
+Stack trace:
+#0 /home/imsc3529/public_html/192.268.908.11/json/tfaktur/tfaktur.php(30): PDO->query('SELECT COUNT(id...')
+#1 {main}
+  thrown in /home/imsc3529/public_html/192.268.908.11/json/tfaktur/tfaktur.php on line 30
+[17-Mar-2022 09:15:30 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'imsc3529_imsnp.tuker_faktur_c' doesn't exist in /home/imsc3529/public_html/192.268.908.11/json/tfaktur/tfaktur.php:30
+Stack trace:
+#0 /home/imsc3529/public_html/192.268.908.11/json/tfaktur/tfaktur.php(30): PDO->query('SELECT COUNT(id...')
+#1 {main}
+  thrown in /home/imsc3529/public_html/192.268.908.11/json/tfaktur/tfaktur.php on line 30
+[17-Mar-2022 09:15:30 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'imsc3529_imsnp.tuker_faktur_c' doesn't exist in /home/imsc3529/public_html/192.268.908.11/json/tfaktur/tfaktur.php:30
+Stack trace:
+#0 /home/imsc3529/public_html/192.268.908.11/json/tfaktur/tfaktur.php(30): PDO->query('SELECT COUNT(id...')
+#1 {main}
+  thrown in /home/imsc3529/public_html/192.268.908.11/json/tfaktur/tfaktur.php on line 30
+[17-Mar-2022 09:15:30 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'imsc3529_imsnp.tuker_faktur_c' doesn't exist in /home/imsc3529/public_html/192.268.908.11/json/tfaktur/tfaktur.php:30
+Stack trace:
+#0 /home/imsc3529/public_html/192.268.908.11/json/tfaktur/tfaktur.php(30): PDO->query('SELECT COUNT(id...')
+#1 {main}
+  thrown in /home/imsc3529/public_html/192.268.908.11/json/tfaktur/tfaktur.php on line 30
+[17-Mar-2022 09:15:31 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'imsc3529_imsnp.tuker_faktur_c' doesn't exist in /home/imsc3529/public_html/192.268.908.11/json/tfaktur/tfaktur.php:30
+Stack trace:
+#0 /home/imsc3529/public_html/192.268.908.11/json/tfaktur/tfaktur.php(30): PDO->query('SELECT COUNT(id...')
+#1 {main}
+  thrown in /home/imsc3529/public_html/192.268.908.11/json/tfaktur/tfaktur.php on line 30
+[17-Mar-2022 09:15:31 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'imsc3529_imsnp.tuker_faktur_c' doesn't exist in /home/imsc3529/public_html/192.268.908.11/json/tfaktur/tfaktur.php:30
+Stack trace:
+#0 /home/imsc3529/public_html/192.268.908.11/json/tfaktur/tfaktur.php(30): PDO->query('SELECT COUNT(id...')
+#1 {main}
+  thrown in /home/imsc3529/public_html/192.268.908.11/json/tfaktur/tfaktur.php on line 30
+[17-Mar-2022 09:15:32 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'imsc3529_imsnp.tuker_faktur_c' doesn't exist in /home/imsc3529/public_html/192.268.908.11/json/tfaktur/tfaktur.php:30
+Stack trace:
+#0 /home/imsc3529/public_html/192.268.908.11/json/tfaktur/tfaktur.php(30): PDO->query('SELECT COUNT(id...')
+#1 {main}
+  thrown in /home/imsc3529/public_html/192.268.908.11/json/tfaktur/tfaktur.php on line 30
+[17-Mar-2022 09:15:32 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'imsc3529_imsnp.tuker_faktur_c' doesn't exist in /home/imsc3529/public_html/192.268.908.11/json/tfaktur/tfaktur.php:30
+Stack trace:
+#0 /home/imsc3529/public_html/192.268.908.11/json/tfaktur/tfaktur.php(30): PDO->query('SELECT COUNT(id...')
+#1 {main}
+  thrown in /home/imsc3529/public_html/192.268.908.11/json/tfaktur/tfaktur.php on line 30
+[17-Mar-2022 09:15:32 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'imsc3529_imsnp.tuker_faktur_c' doesn't exist in /home/imsc3529/public_html/192.268.908.11/json/tfaktur/tfaktur.php:30
+Stack trace:
+#0 /home/imsc3529/public_html/192.268.908.11/json/tfaktur/tfaktur.php(30): PDO->query('SELECT COUNT(id...')
+#1 {main}
+  thrown in /home/imsc3529/public_html/192.268.908.11/json/tfaktur/tfaktur.php on line 30
+[17-Mar-2022 09:15:33 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'imsc3529_imsnp.tuker_faktur_c' doesn't exist in /home/imsc3529/public_html/192.268.908.11/json/tfaktur/tfaktur.php:30
+Stack trace:
+#0 /home/imsc3529/public_html/192.268.908.11/json/tfaktur/tfaktur.php(30): PDO->query('SELECT COUNT(id...')
+#1 {main}
+  thrown in /home/imsc3529/public_html/192.268.908.11/json/tfaktur/tfaktur.php on line 30
+[17-Mar-2022 09:15:33 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'imsc3529_imsnp.tuker_faktur_c' doesn't exist in /home/imsc3529/public_html/192.268.908.11/json/tfaktur/tfaktur.php:30
+Stack trace:
+#0 /home/imsc3529/public_html/192.268.908.11/json/tfaktur/tfaktur.php(30): PDO->query('SELECT COUNT(id...')
+#1 {main}
+  thrown in /home/imsc3529/public_html/192.268.908.11/json/tfaktur/tfaktur.php on line 30
+[17-Mar-2022 09:15:33 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'imsc3529_imsnp.tuker_faktur_c' doesn't exist in /home/imsc3529/public_html/192.268.908.11/json/tfaktur/tfaktur.php:30
+Stack trace:
+#0 /home/imsc3529/public_html/192.268.908.11/json/tfaktur/tfaktur.php(30): PDO->query('SELECT COUNT(id...')
+#1 {main}
+  thrown in /home/imsc3529/public_html/192.268.908.11/json/tfaktur/tfaktur.php on line 30
+[17-Mar-2022 09:17:03 Asia/Jakarta] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'imsc3529_imsnp.tuker_faktur_c' doesn't exist in /home/imsc3529/public_html/192.268.908.11/json/tfaktur/tfaktur.php:30
+Stack trace:
+#0 /home/imsc3529/public_html/192.268.908.11/json/tfaktur/tfaktur.php(30): PDO->query('SELECT COUNT(id...')
+#1 {main}
+  thrown in /home/imsc3529/public_html/192.268.908.11/json/tfaktur/tfaktur.php on line 30

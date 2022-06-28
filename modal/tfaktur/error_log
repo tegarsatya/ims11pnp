@@ -1,0 +1,1 @@
+[17-Mar-2022 09:15:03 Asia/Jakarta] PHP Warning:  PDOStatement::bindParam() expects at least 2 parameters, 1 given in /home/imsc3529/public_html/192.268.908.11/modal/tfaktur/tfaktur.php on line 37
